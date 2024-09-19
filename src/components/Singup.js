@@ -37,8 +37,8 @@ function Signup() {
           </button>
         </form>
       </div>
-        <div className="links">
-          <a style={{color:"white", fontSize:"1rem", marginLeft:"50px", marginTop:"400px"}}  href="#">Forgot Password</a>
+        <div  id='main-footer'>
+          <a   href="#">Forgot Password</a>
         </div>
     </div>
     <div id="right">

@@ -13,21 +13,27 @@ function Home() {
                 <Carousel.Item>
                     <img style={{ width: "100%", height: "500px" }} src='https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,q_auto:best,t_productPageHeroGalleryTransformation_v2,w_auto/legacy_dam/en-ca/S001751158/NPIB-20835-NA-Event-TShirts-PDP-Hero-002' />
                     <Carousel.Caption>
-                        <h3 style={{ color: "black" }}>Bach weekend</h3>
+                    <a href='/products' className="btn btn-primary" type="submit">
+              Shop Now
+            </a>
 
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ width: "100%", height: "500px" }} src='https://ichef.bbci.co.uk/news/741/cpsprodpb/dfb8/live/525d02a0-3ed8-11ef-bc90-15318ac50ac3.png' />
                     <Carousel.Caption>
-                        <h3 style={{ color: "black" }}>North lanarkshire</h3>
+                    <a href='/products' className="btn btn-primary" type="submit">
+                    Shop Now
+            </a>
 
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img style={{ width: "100%", height: "500px" }} src='https://a.storyblok.com/f/165154/1280x720/0d45aa1c3e/2_eight-top-t-shirt-design-tips.jpg/m/' />
                     <Carousel.Caption>
-                        <h3 style={{ color: "black" }}>Live free</h3>
+                    <a href='/products'  className="btn btn-primary" type="submit">
+                    Shop Now
+            </a>
 
                     </Carousel.Caption>
                 </Carousel.Item>
